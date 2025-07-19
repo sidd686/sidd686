@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd686&label=Profile%20views&color=0e75b6&style=flat" alt="sidd686/> </p>
 
-- 👨‍💻 All of my projects are available at[https://www.linkedin.com/in/siddharth-chaudhary-a9b821372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 👨‍💻 All of my projects are available 
 - 📫 How to reach me **siddharthchoudhary8210@gmail.com**
 
 - ⚡ Fun fact **I am funny**
