@@ -1,4 +1,4 @@
-![logo](https://github.com/Alex0775edu/Alex0775edu/blob/main/459915d9-0416-4475-9e1c-5ebe43fa427e.jpg)
+
 <h1 align="center">Hi 👋, I'm Siddharth chaudhary</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
