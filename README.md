@@ -1,4 +1,4 @@
-
+<h1 align="sidd/storage/emulated/0/Pictures/WhatsApp/IMG-20250705-WA0001.jpg"
 <h1 align="center">Hi 👋, I'm Siddharth chaudhary</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
